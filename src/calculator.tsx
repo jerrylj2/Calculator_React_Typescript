@@ -17,7 +17,7 @@ function Calculator() {
                 <p>
                     © 2022 | designed & coded by Jerry Jackson
                     <span>
-                        <a href="https://github.com/jerrylj2/Calculator" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/jerrylj2/Calculator_React_Typescript" target="_blank" rel="noopener noreferrer">
                             <FaGithub className="github" title="GitHub"/>
                         </a>
                     </span>

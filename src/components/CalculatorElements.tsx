@@ -10,7 +10,7 @@ function CalculatorElements() {
     const [output_table, set_output_table] = useState<string[]>([]);
     
     function AddRow(output: string) {
-        if (output_table.length < 18) {
+        if (output_table.length < 17) {
             set_output_table([output, ...output_table]);
         } else {
             // limiting rows to the length of the table
